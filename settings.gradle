@@ -1,0 +1,1 @@
+include ':example', ':builder-annotation', ':builder-compiler', ':builder-api'
